@@ -1,6 +1,6 @@
 ## About **Intenseye**
 
-At Intenseye, we are on a mission to transform industrial safety and risk management using cutting-edge AI technology. We have developed an advanced Environmental, Health, and Safety (EHS) platform that leverages artificial intelligence, machine learning, and computer vision to create safer work environments in industrial facilities.
+At Intenseye, we are on a mission to transform industrial safety and risk management using cutting-edge AI technology. We have developed an advanced Environmental, Health and Safety (EHS) platform that leverages artificial intelligence, machine learning, and computer vision to create safer work environments in industrial facilities.
 
 Join us on this transformative journey as we pioneer the future of industrial safety.
 
